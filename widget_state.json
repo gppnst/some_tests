@@ -1,0 +1,300 @@
+{
+    "version_major": 2,
+    "version_minor": 0,
+    "state": {
+        "0106b9c1726f4be1916065aecd287579": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.0.0",
+            "state": {}
+        },
+        "74ba51a73f254f4e88c8a634cf90e73a": {
+            "model_name": "DescriptionStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.1.0",
+            "state": {
+                "description_width": ""
+            }
+        },
+        "f26c0a3c4f2c41118897294bc9c1f0a2": {
+            "model_name": "TextModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.1.0",
+            "state": {
+                "description": "mass [mp]",
+                "layout": "IPY_MODEL_0106b9c1726f4be1916065aecd287579",
+                "style": "IPY_MODEL_74ba51a73f254f4e88c8a634cf90e73a",
+                "value": "1."
+            }
+        },
+        "663ead4aa65d43d7a73556234793663b": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.0.0",
+            "state": {}
+        },
+        "81a926e4ed1f4127a7aa219ae1672ce7": {
+            "model_name": "DescriptionStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.1.0",
+            "state": {
+                "description_width": ""
+            }
+        },
+        "4f17818d7bd34a17ba1a7c41367cc282": {
+            "model_name": "TextModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.1.0",
+            "state": {
+                "description": "Charge [e]",
+                "layout": "IPY_MODEL_663ead4aa65d43d7a73556234793663b",
+                "style": "IPY_MODEL_81a926e4ed1f4127a7aa219ae1672ce7",
+                "value": "1."
+            }
+        },
+        "351bcd1d2d5d4679b4a6aec17f652a4c": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.0.0",
+            "state": {}
+        },
+        "48fc1dd35dc4422d8f0ba6b23779722f": {
+            "model_name": "DescriptionStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.1.0",
+            "state": {
+                "description_width": ""
+            }
+        },
+        "b8d6f290793b435a9c18623374101f38": {
+            "model_name": "TextModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.1.0",
+            "state": {
+                "description": "Velocity [km/s]",
+                "layout": "IPY_MODEL_351bcd1d2d5d4679b4a6aec17f652a4c",
+                "style": "IPY_MODEL_48fc1dd35dc4422d8f0ba6b23779722f",
+                "value": "1."
+            }
+        },
+        "562da85207d447dcbb7986f41efe974f": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.0.0",
+            "state": {}
+        },
+        "9511d4ae02de44ab859a0d1f00ad61ed": {
+            "model_name": "DescriptionStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.1.0",
+            "state": {
+                "description_width": ""
+            }
+        },
+        "00fb1496e9474253a834951a0ed3bdc3": {
+            "model_name": "TextModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.1.0",
+            "state": {
+                "description": "Magnetic field [10-4 T]",
+                "layout": "IPY_MODEL_562da85207d447dcbb7986f41efe974f",
+                "style": "IPY_MODEL_9511d4ae02de44ab859a0d1f00ad61ed",
+                "value": "1."
+            }
+        },
+        "45695f6f4e984370aac5ff18f159da7c": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.0.0",
+            "state": {}
+        },
+        "397a4618303340218d8446d89c86b65c": {
+            "model_name": "DescriptionStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.1.0",
+            "state": {
+                "description_width": ""
+            }
+        },
+        "0fe8cf7d65bb4e6db8c6c916b621a48b": {
+            "model_name": "TextModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.1.0",
+            "state": {
+                "description": "Larmor radius [km]",
+                "layout": "IPY_MODEL_45695f6f4e984370aac5ff18f159da7c",
+                "style": "IPY_MODEL_397a4618303340218d8446d89c86b65c",
+                "value": "0."
+            }
+        },
+        "c45e34d1d754478a97edb2831da3845d": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.0.0",
+            "state": {}
+        },
+        "58fbed6ed3f44dce8c72f71c8d542d32": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.1.0",
+            "state": {}
+        },
+        "190e6650310a496e8c3cfadbc52c44f3": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.1.0",
+            "state": {
+                "description": "Calculate",
+                "layout": "IPY_MODEL_c45e34d1d754478a97edb2831da3845d",
+                "style": "IPY_MODEL_58fbed6ed3f44dce8c72f71c8d542d32"
+            }
+        },
+        "7fe16d4017444cd68f079c6c4452cc5d": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.0.0",
+            "state": {}
+        },
+        "1802efa285ee47208cefb859f135bede": {
+            "model_name": "DescriptionStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.1.0",
+            "state": {
+                "description_width": ""
+            }
+        },
+        "5c5e9d1dbe32454eb16817d4ef20f26d": {
+            "model_name": "TextModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.1.0",
+            "state": {
+                "description": "mass [mp]",
+                "layout": "IPY_MODEL_7fe16d4017444cd68f079c6c4452cc5d",
+                "style": "IPY_MODEL_1802efa285ee47208cefb859f135bede",
+                "value": "1."
+            }
+        },
+        "1bda8d6ae8954ecd903f94b43f96ed02": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.0.0",
+            "state": {}
+        },
+        "d66a17be848b45f597b2c7859db0ef08": {
+            "model_name": "DescriptionStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.1.0",
+            "state": {
+                "description_width": ""
+            }
+        },
+        "c3d90ebbf9454d9ab901e597a89525ef": {
+            "model_name": "TextModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.1.0",
+            "state": {
+                "description": "Charge [e]",
+                "layout": "IPY_MODEL_1bda8d6ae8954ecd903f94b43f96ed02",
+                "style": "IPY_MODEL_d66a17be848b45f597b2c7859db0ef08",
+                "value": "1."
+            }
+        },
+        "486137e8e3544594beab275e584f43f9": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.0.0",
+            "state": {}
+        },
+        "711d3f7ebbe3449ea7695478ffe3f0f4": {
+            "model_name": "DescriptionStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.1.0",
+            "state": {
+                "description_width": ""
+            }
+        },
+        "c4f1ff67a19445e384c2269fe840d0d8": {
+            "model_name": "TextModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.1.0",
+            "state": {
+                "description": "Velocity [km/s]",
+                "layout": "IPY_MODEL_486137e8e3544594beab275e584f43f9",
+                "style": "IPY_MODEL_711d3f7ebbe3449ea7695478ffe3f0f4",
+                "value": "1."
+            }
+        },
+        "4644620b21724696a14329e475546135": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.0.0",
+            "state": {}
+        },
+        "138feee9ee26448aa804776607916c79": {
+            "model_name": "DescriptionStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.1.0",
+            "state": {
+                "description_width": ""
+            }
+        },
+        "3c5ada27800a49a4b2103274454ad8ba": {
+            "model_name": "TextModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.1.0",
+            "state": {
+                "description": "Magnetic field [10-4 T]",
+                "layout": "IPY_MODEL_4644620b21724696a14329e475546135",
+                "style": "IPY_MODEL_138feee9ee26448aa804776607916c79",
+                "value": "1."
+            }
+        },
+        "af00f24cc8bd4283acf8418586a7a03f": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.0.0",
+            "state": {}
+        },
+        "00bb66cabe854837b826f4210bf0b557": {
+            "model_name": "DescriptionStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.1.0",
+            "state": {
+                "description_width": ""
+            }
+        },
+        "8af777022f764d8faa5cf9582363ed59": {
+            "model_name": "TextModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.1.0",
+            "state": {
+                "description": "Larmor radius [km]",
+                "layout": "IPY_MODEL_af00f24cc8bd4283acf8418586a7a03f",
+                "style": "IPY_MODEL_00bb66cabe854837b826f4210bf0b557",
+                "value": "0."
+            }
+        },
+        "2246a10aa58f402aa2176a4c3bfdd00b": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.0.0",
+            "state": {}
+        },
+        "f32c7cbb096e47a79699217588b1634a": {
+            "model_name": "ButtonStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.1.0",
+            "state": {}
+        },
+        "cc0b45da58c94a0c8eba65bfaf6d6897": {
+            "model_name": "ButtonModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.1.0",
+            "state": {
+                "description": "Calculate",
+                "layout": "IPY_MODEL_2246a10aa58f402aa2176a4c3bfdd00b",
+                "style": "IPY_MODEL_f32c7cbb096e47a79699217588b1634a"
+            }
+        }
+    }
+}
